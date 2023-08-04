@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ecom/static/css/main.2dc02301.css",
+    "main.js": "/Ecom/static/js/main.8ae92b1d.js",
+    "static/media/cover.jfif": "/Ecom/static/media/cover.e2edeab17643ab2951c0.jfif",
+    "static/media/Profile.png": "/Ecom/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/Ecom/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/Ecom/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/Ecom/index.html",
+    "main.2dc02301.css.map": "/Ecom/static/css/main.2dc02301.css.map",
+    "main.8ae92b1d.js.map": "/Ecom/static/js/main.8ae92b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc02301.css",
+    "static/js/main.8ae92b1d.js"
+  ]
+}
